@@ -1,0 +1,11 @@
+.ex1{
+    background-color: #ffd700;
+}
+
+.ex2{
+    background-color: rgb(red, green, blue);
+}
+
+.ex3{
+    background-color: rgba(red, green, blue, alpha);
+}
